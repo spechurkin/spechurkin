@@ -2,7 +2,7 @@
 
 **Java / Kotlin Backend Developer · System Integration**
 
-Software engineer with professional experience since 2021, specializing in JVM development, enterprise integrations, distributed systems, and infrastructure monitoring.
+Software engineer specializing in JVM development, enterprise integrations, distributed systems, and infrastructure monitoring.
 
 ## 🛠️ Tech Stack
 
